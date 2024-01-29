@@ -1,6 +1,6 @@
 # Data Science Machine Learning Project
 
-## Titanic Dataset Analysis Summary
+## [Titanic Dataset Analysis Summary](https://github.com/prathamgupta36/Data-Science-Machine-Learning-Bootcamp/blob/main/Titanic%20Passenger%20Analysis.ipynb)
 
 The provided code conducts a thorough analysis of the Titanic dataset, encompassing data loading, exploratory data analysis (EDA), data cleaning, and the development of two machine learning models: Logistic Regression and Random Forest Classifier.
 
@@ -31,7 +31,7 @@ The provided code conducts a thorough analysis of the Titanic dataset, encompass
    - Suggestions for further analysis and feature engineering are provided.
 
 
-## Supermarket Survey Analysis Summary
+## [Supermarket Survey Analysis Summary](https://github.com/prathamgupta36/Data-Science-Machine-Learning-Bootcamp/blob/main/Supermarket%20Customer%20Analysis.ipynb)
 
 The code analyzes a supermarket survey dataset, exploring customer demographics and preferences for self-checkout. Two machine learning models, Logistic Regression and Random Forest Classifier, were employed for predicting customer ideas regarding self-checkout.
 
